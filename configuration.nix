@@ -16,5 +16,5 @@
 
   imports = [./sd-image-aarch64.nix];
 
-  system.stateVersion = "18.03";
+  system.stateVersion = "20.09";
 }
